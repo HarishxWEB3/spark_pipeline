@@ -72,15 +72,14 @@ spark_pipeline/
 
 💡 Example Output
 
-+--------+---+--------+
-|   Name |Age|  City  |
-+--------+---+--------+
-|  John  |25 |New York|
-|  Anna  |30 | London |
-|  Mike  |28 | Sydney |
-|Nickolas|32 | Spain  |
-|Charles |26 | Miami  |
-+--------+---+--------+
++-------+---+--------+
+|   name|age|    city|
++-------+---+--------+
+|   John| 25|New York|
+|   Anna| 30|  London|
+|   Mike| 28|  Sydney|
+|Charles| 26|  Miami |
++-------+---+--------+
 
 🌟 Why Spark?
 
@@ -96,3 +95,4 @@ spark_pipeline/
 🔹 Add real-time streaming from Kafka
 
 💬 "Great data pipelines aren’t built in a day — but this one gets you started in five minutes."
+
